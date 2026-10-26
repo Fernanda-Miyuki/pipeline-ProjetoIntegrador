@@ -4,7 +4,7 @@ Pipeline de dados para leitura, validação, deduplicação e transformação de
 
 **Projeto acadêmico:** Big Data no Agronegócio — Fatec Pompeia Shunji Nishimura
 **Professor:** https://github.com/siriani  
-**Autora:** Fernanda
+**Aluna:** Fernanda Miyuki
 
 ## 1. Objetivo
 

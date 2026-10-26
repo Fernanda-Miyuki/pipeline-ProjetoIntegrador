@@ -1,0 +1,4 @@
+pymongo
+python-dotenv
+redis
+mysql-connector-python

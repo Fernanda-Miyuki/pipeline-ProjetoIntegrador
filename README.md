@@ -291,19 +291,3 @@ sudo docker run --rm \
 ```
 
 Para acompanhar os logs, mantenha o terminal aberto. A configuração dos endereços no `.env` deve corresponder ao modo de rede utilizado.
-
-## 9. Estrutura do repositório
-
-```text
-pipeline-iot/
-├── src/
-│   └── pipeline.py
-├── sql/
-│   ├── consultas.sql
-│   └── schema.sql
-├── Dockerfile
-├── requirements.txt
-├── .env.example
-├── .gitignore
-└── README.md
-```
